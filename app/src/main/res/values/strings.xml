@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CleanCodeRealtime</string>
+    <string name="login">Login</string>
+    <string name="YourPassword">Your Password\n</string>
+    <string name="Forgotyourpassword">Forgot Your Password?\n</string>
+    <string name="YourEmail">Your Email\n</string>
+    <string name="donthaveaccount">\nDon\'t have an account? Sign up\n</string>
 </resources>
