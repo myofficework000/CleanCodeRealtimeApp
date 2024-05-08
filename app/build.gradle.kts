@@ -73,8 +73,6 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
 
-
-
     //compose navigation
     implementation("androidx.navigation:navigation-compose:2.7.7")
 
@@ -83,6 +81,14 @@ dependencies {
 
     //compose constrainlayout
     implementation("androidx.constraintlayout:constraintlayout-compose:1.0.1")
+    
+    //compose
+    
+    implementation("androidx.compose.ui:ui:1.4.0")
+    // Toolkit
+    implementation("androidx.compose.material:material:1.4.0")
+    // UI Tooling preview
+    implementation("androidx.compose.ui:ui-tooling-preview:1.4.0")
 
 
     //Retrofit
